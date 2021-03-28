@@ -17,6 +17,9 @@ For this version I have used the distribution of with a PNN Chingaza Shapefile. 
 
 
 
+Here a script is presented with data for the first Approach. To "The distribution pattern is then classified as “local,” “regional,” or “wide” based on the shapefiles of the reference area and the focal areas, and the distribution of the species"
+
+
 
 
 

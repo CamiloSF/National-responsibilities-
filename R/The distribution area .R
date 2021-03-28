@@ -41,7 +41,7 @@ CalcArea <- function(rin,sh) {
 
 # start run-------------------------------------------------------------
 
-rasterBird <- raster(file.choose()) # select distribution bird map in raster format 
+rasterBird <- raster(file.choose()) # select distribution bird map in raster format (asc) 
 shpReference <- st_read(file.choose()) # select PNN shapefile
 areareturn <- CalcArea(rasterBird ,shpReference) # calculate Area
 areareturn
